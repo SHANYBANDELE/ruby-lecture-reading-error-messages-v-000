@@ -1,3 +1,3 @@
 1 + 1
 
-1 + 0 "is the loneliest number".rb
+1 + 0 "is the loneliest number"
